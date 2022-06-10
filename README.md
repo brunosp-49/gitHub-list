@@ -17,13 +17,13 @@ Libs ultilizadas:
 
 # Como rodar
 1 - Fazer o git clone <br>
-2 - Abrir no vs code (comando: code .)
-3 - Abrir um terminal dentro da pasta server
-4 - Digitar o comando: npm start
-5 - Abra um segundo terminal dessa vez dentro da pasta client
-6 - Digitar o comando: npm install
-7 - Digitar o comando: npm start
-8 - A aplicação deve estar rodando
+2 - Abrir no vs code (comando: code .) <br>
+3 - Abrir um terminal dentro da pasta server <br>
+4 - Digitar o comando: npm start <br>
+5 - Abra um segundo terminal dessa vez dentro da pasta client <br>
+6 - Digitar o comando: npm install <br>
+7 - Digitar o comando: npm start <br>
+8 - A aplicação deve estar rodando <br>
 
 ## Como usar
 >**Login**
