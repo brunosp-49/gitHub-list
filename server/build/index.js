@@ -25,7 +25,6 @@ app.post("/login", (req, res) => {
     try {
         const { email, password } = req.body;
         if (email != user.email) {
-            console.log(typeof email);
             throw new Error("Erro de email");
         }
         else if (password != user.password) {
@@ -42,7 +41,6 @@ app.post("/login", (req, res) => {
 app.post("/new", (req, res) => {
     try {
         var { adress } = req.body;
-        console.log(typeof adress);
         var adressSplited = adress.split("/");
         // 3(username), 4(repo) 
         var id = Math.floor(Math.random() * 65);

@@ -31,7 +31,6 @@ export function Login() {
     getLogin(email, password, setResponse, setIsOpen);
     setEmail("");
     setPassword("");
-    console.log(localStorage.getItem("token"));
   };
 
   return (
@@ -49,7 +48,6 @@ export function Login() {
                   required
                   onChange={(e) => {
                     setEmail(e.target.value);
-                    console.log(typeof email);
                   }}
                   value={email}
                   placeholder="exemplo@email.com"
@@ -60,7 +58,6 @@ export function Login() {
                   required
                   onChange={(e) => {
                     setPassword(e.target.value);
-                    console.log(typeof password);
                   }}
                   value={password}
                 />
