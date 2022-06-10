@@ -1,19 +1,6 @@
  # gitHub-list
 
-Tentei publicar no heroku, mas por algum motivo não quis fazer deploy então abaixo das tecnologias deixarei as instruções.
-
-Tecnologias ultilizadas no projeto:
-- React
-- Node
-
-Libs ultilizadas:
-- Material UI
-- Axios
-- Router
-- Styled-components
-- Hooks(useState, useContext, useEffect)
-- Cors
-- Express
+Tentei publicar no heroku, mas por algum motivo não quis fazer deploy então abaixo deixarei as instruções.
 
 # Como rodar
 1 - Fazer o git clone <br>
@@ -44,3 +31,16 @@ quando o login for feito o acesso a repositórios iniciais, você pode pesquisar
 
 >**Incluir novos repositórios**
 Criei umas pseudo api para as requisições, e a de incluir um novo card é bem simples, é somente necessário colar o link do repositório desejado, já que tem ligação com a api do github e funciona com qualquer repositório, se for digitado um repositório inexistente o erro será notado, e nada será incluído.
+
+Tecnologias ultilizadas no projeto:
+- React
+- Node
+
+Libs ultilizadas:
+- Material UI
+- Axios
+- Router
+- Styled-components
+- Hooks(useState, useContext, useEffect)
+- Cors
+- Express
