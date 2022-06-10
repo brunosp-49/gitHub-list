@@ -25,6 +25,12 @@ Libs ultilizadas:
 7 - Digitar o comando: npm start <br>
 8 - A aplicação deve estar rodando <br>
 
+
+
+https://user-images.githubusercontent.com/99160023/172966606-18fbae18-1142-4c17-a056-0e7f9bd0dbc3.mp4
+
+
+
 ## Como usar
 >**Login**
 Criei a aplicação para ser mais real possível, então o menu tem validação de formulário e de usuários, o usuário que criei foi o adm:
