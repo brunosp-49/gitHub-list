@@ -20,7 +20,7 @@ Libs ultilizadas:
 2 - Abrir no vs code (comando: code .) <br>
 3 - Abrir um terminal dentro da pasta server <br>
 4 - Digitar o comando: npm start <br>
-4.2 - Caso de um erro "sh: 1: tsc: Permission denied" digite o comando: chmod a+x node_modules/.bin/tsc <br>
+4.1 - Caso de um erro "sh: 1: tsc: Permission denied" digite o comando: chmod a+x node_modules/.bin/tsc <br>
 5 - Abra um segundo terminal dessa vez dentro da pasta client <br>
 6 - Digitar o comando: npm install <br>
 7 - Digitar o comando: npm start <br>
