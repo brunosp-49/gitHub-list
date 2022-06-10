@@ -16,7 +16,7 @@ Libs ultilizadas:
 - Express
 
 # Como rodar
-1 - Fazer o git clone
+1 - Fazer o git clone <br>
 2 - Abrir no vs code (comando: code .)
 3 - Abrir um terminal dentro da pasta server
 4 - Digitar o comando: npm start
