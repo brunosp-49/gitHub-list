@@ -36,7 +36,7 @@ Criei umas pseudo api para as requisições, e a de incluir um novo card é bem 
 - React
 - Node
 
-Libs ultilizadas:
+## Libs ultilizadas:
 - Material UI
 - Axios
 - Router
