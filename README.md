@@ -2,7 +2,8 @@
 
 # Como rodar
 Link: https://github-list09.herokuapp.com/<br>
-Login: adm@gmail.com Senha: adm123
+Login: adm@gmail.com <br>
+Senha: adm123
 
 
 ## Como usar
