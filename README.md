@@ -1,21 +1,7 @@
  # gitHub-list
 
-Tentei publicar no heroku, mas por algum motivo não quis fazer deploy então abaixo deixarei as instruções.
-
 # Como rodar
-1 - Fazer o git clone <br>
-2 - Abrir no vs code (comando: code .) <br>
-3 - Abrir um terminal dentro da pasta server <br>
-4 - Digitar o comando: npm start <br>
-4.1 - Caso de um erro "sh: 1: tsc: Permission denied" digite o comando: chmod a+x node_modules/.bin/tsc <br>
-5 - Abra um segundo terminal dessa vez dentro da pasta client <br>
-6 - Digitar o comando: npm install <br>
-7 - Digitar o comando: npm start <br>
-8 - A aplicação deve estar rodando <br>
-
-
-
-https://user-images.githubusercontent.com/99160023/172966606-18fbae18-1142-4c17-a056-0e7f9bd0dbc3.mp4
+Link: https://github-list09.herokuapp.com/
 
 
 
