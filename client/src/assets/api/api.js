@@ -5,7 +5,7 @@ export const getLogin = (emailP, passwordP, setState, setSnack) =>{
         "email": emailP,
         "password": passwordP
     }
-    axios.post("http://localhost:3001/login", body)
+    axios.post("https://github-list09.herokuapp.com/login", body)
     .then((res)=>{
         setState(res.data)
         localStorage.setItem("token", "true")
@@ -16,7 +16,7 @@ export const getLogin = (emailP, passwordP, setState, setSnack) =>{
 }
 
 export const getRepos = (setState) =>{
-    axios.get("http://localhost:3001/get")
+    axios.get("https://github-list09.herokuapp.com/get")
     .then((res)=>{
         setState(res.data)
     }).catch((err)=>{
@@ -28,14 +28,14 @@ export const postRepo = (http) =>{
     var body = {
         "adress": http
     }
-    axios.post("http://localhost:3001/new", body)
+    axios.post("https://github-list09.herokuapp.com/new", body)
     .then((res)=>{
     }).catch((err)=>{
     })
 }
 
 export const deleteRepo = (id, setState) =>{
-    axios.delete(`http://localhost:3001/delete/${id}`)
+    axios.delete(`https://github-list09.herokuapp.com/delete/${id}`)
     .then((res)=>{
         setState("")
     }).catch((err)=>{
