@@ -1,4 +1,4 @@
- # gitHub-list
+ # gitHub-list (full-stack)
 
 # Como rodar
 Link: https://github-list09.herokuapp.com/
