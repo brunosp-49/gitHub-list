@@ -10,7 +10,7 @@ Senha: adm123
 >**Login**
 Criei a aplicação para ser mais real possível, então o menu tem validação de formulário e de usuários, o usuário que criei foi o adm:
 Login: adm@gmail.com
-Senha: adm123
+Password: adm123
 se for inserido uma conta incorreta, o login estará bloqueado.
 
 >**Busca**
